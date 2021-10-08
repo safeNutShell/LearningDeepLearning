@@ -1,2 +1,2 @@
-# LearningDeepLearning
-deep learning, computer vision, pytorch
+# Learning Deep Learning
+Deep Learning, Computer Vision, PyTorch
